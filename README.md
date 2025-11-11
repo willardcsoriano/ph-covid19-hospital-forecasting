@@ -16,8 +16,6 @@ The notebook performs:
 
 This project demonstrates how **AI can support healthcare capacity management** and pandemic preparedness through open data and reproducible analysis.
 
----
-
 ## 📂 Repository Structure  
 
 ph-covid19-hospital-forecasting/
@@ -32,8 +30,6 @@ ph-covid19-hospital-forecasting/
 
 > 💡 The main notebook (`ph-covid19-hospital-forecasting.ipynb`) is your entry point.  
 > It contains **seven structured sections**, from data preprocessing to AI forecasting and policy recommendations.
-
----
 
 ## 📦 Dataset Access  
 
@@ -228,7 +224,3 @@ This project is licensed under the **MIT License** — free for use, modificatio
 - Keep the repo lightweight (no `.csv` files, no `.venv` folder).  
 
 ---
-
-Would you like me to provide a short **GitHub “About” section** (description + topics/tags) to paste in your repo settings next?  
-That’s what appears at the top of your repository page and improves discoverability.
-```
