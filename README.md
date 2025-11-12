@@ -179,7 +179,7 @@ Outputs include predicted ICU occupancy (`yhat`) and 95 % confidence intervals (
 
 If you reference this work:
 
-> Willard [Surname]. *AI-Based Forecasting of COVID-19 Hospital Capacity in the Philippines.* 2025.
+> Willard Soriano. *AI-Based Forecasting of COVID-19 Hospital Capacity in the Philippines.* 2025.
 > Repository: [GitHub – ph-covid19-hospital-forecasting](https://github.com/<your-username>/ph-covid19-hospital-forecasting)
 
 ---
