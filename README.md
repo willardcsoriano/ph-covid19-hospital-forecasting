@@ -17,7 +17,7 @@ The notebook performs:
 This project demonstrates how **AI can support healthcare capacity management** and pandemic preparedness through open data and reproducible analysis.
 
 ## 📂 Repository Structure  
-
+```
 ph-covid19-hospital-forecasting/
 │
 ├── ph-covid19-hospital-forecasting.ipynb     # Main Jupyter Notebook
@@ -27,7 +27,7 @@ ph-covid19-hospital-forecasting/
 ├── requirements.txt                           # Python dependencies
 ├── .gitignore                                 # Git ignore rules
 └── .venv/                                     # Local virtual environment (excluded from repo)
-
+```
 > 💡 The main notebook (`ph-covid19-hospital-forecasting.ipynb`) is your entry point.  
 > It contains **seven structured sections**, from data preprocessing to AI forecasting and policy recommendations.
 
@@ -209,7 +209,7 @@ This project is licensed under the **MIT License** — free for use, modificatio
 
 ## 🧠 Author
 
-**Willard [Surname]**
+**Willard Soriano**
 📧 [[your.email@domain.com](mailto:your.email@domain.com)]
 📍 Manila, Philippines
 📅 Last updated: **November 2025**
