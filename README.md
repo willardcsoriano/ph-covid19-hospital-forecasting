@@ -210,7 +210,7 @@ This project is licensed under the **MIT License** — free for use, modificatio
 ## 🧠 Author
 
 **Willard Soriano**
-📧 [[your.email@domain.com](mailto:your.email@domain.com)]
+📧 [[soriano.willard@gmail.com](mailto:soriano.willard@gmail.com)]
 📍 Manila, Philippines
 📅 Last updated: **November 2025**
 
