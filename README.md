@@ -16,10 +16,8 @@ The notebook performs:
 
 This project demonstrates how **AI can support healthcare capacity management** and pandemic preparedness through open data and reproducible analysis.
 
----
-
 ## 📂 Repository Structure  
-
+```
 ph-covid19-hospital-forecasting/
 │
 ├── ph-covid19-hospital-forecasting.ipynb     # Main Jupyter Notebook
@@ -29,11 +27,9 @@ ph-covid19-hospital-forecasting/
 ├── requirements.txt                           # Python dependencies
 ├── .gitignore                                 # Git ignore rules
 └── .venv/                                     # Local virtual environment (excluded from repo)
-
+```
 > 💡 The main notebook (`ph-covid19-hospital-forecasting.ipynb`) is your entry point.  
 > It contains **seven structured sections**, from data preprocessing to AI forecasting and policy recommendations.
-
----
 
 ## 📦 Dataset Access  
 
@@ -183,7 +179,7 @@ Outputs include predicted ICU occupancy (`yhat`) and 95 % confidence intervals (
 
 If you reference this work:
 
-> Willard [Surname]. *AI-Based Forecasting of COVID-19 Hospital Capacity in the Philippines.* 2025.
+> Willard Soriano. *AI-Based Forecasting of COVID-19 Hospital Capacity in the Philippines.* 2025.
 > Repository: [GitHub – ph-covid19-hospital-forecasting](https://github.com/<your-username>/ph-covid19-hospital-forecasting)
 
 ---
@@ -213,8 +209,8 @@ This project is licensed under the **MIT License** — free for use, modificatio
 
 ## 🧠 Author
 
-**Willard [Surname]**
-📧 [[your.email@domain.com](mailto:your.email@domain.com)]
+**Willard Soriano**
+📧 [[soriano.willard@gmail.com](mailto:soriano.willard@gmail.com)]
 📍 Manila, Philippines
 📅 Last updated: **November 2025**
 
@@ -228,7 +224,3 @@ This project is licensed under the **MIT License** — free for use, modificatio
 - Keep the repo lightweight (no `.csv` files, no `.venv` folder).  
 
 ---
-
-Would you like me to provide a short **GitHub “About” section** (description + topics/tags) to paste in your repo settings next?  
-That’s what appears at the top of your repository page and improves discoverability.
-```
