@@ -192,7 +192,7 @@ Outputs include predicted ICU occupancy (`yhat`) and 95 % confidence intervals (
 
 If you reference this work:
 
-> Willard Soriano. *AI-Based Forecasting of COVID-19 Hospital Capacity in the Philippines.* 2025.
+> Willard Soriano, Claire Mendoza. *AI-Based Forecasting of COVID-19 Hospital Capacity in the Philippines.* 2025.
 > Repository: [GitHub – ph-covid19-hospital-forecasting](https://github.com/<your-username>/ph-covid19-hospital-forecasting)
 
 ---
@@ -216,17 +216,7 @@ This project is licensed under the **MIT License** — free for use, modificatio
 * **Department of Health (Philippines)** for the open COVID-19 dataset
 * **Facebook Prophet** team for the forecasting library
 * **AI2 Course and Instructors** for academic guidance
+* **Claire Mendoza** for collaboration and contributions to the project
 * Frontline healthcare workers who inspired this research
-
----
-
-## 🧠 Author
-
-**Willard Soriano**
-📧 [[soriano.willard@gmail.com](mailto:soriano.willard@gmail.com)]
-📍 Manila, Philippines
-📅 Last updated: **November 2025**
-
-```
 
 ---
