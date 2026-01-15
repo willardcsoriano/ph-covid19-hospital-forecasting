@@ -60,6 +60,24 @@ To reproduce this project, download the dataset directly from the official **DOH
 
 ---
 
+## 🌐 Live Project Demo (GitHub Pages)
+
+You can view the rendered analysis **without running any code** via GitHub Pages:
+
+🔗 **Live HTML Report:**
+[https://willardcsoriano.github.io/ph-covid19-hospital-forecasting/](https://willardcsoriano.github.io/ph-covid19-hospital-forecasting/)
+
+This page is generated from the Jupyter notebook export and contains:
+
+* All charts and visualizations
+* Forecast outputs
+* Written interpretations and conclusions
+
+> 💡 Recommended for reviewers, policymakers, or readers who only need results.
+
+---
+
+
 ## 🧠 Project Workflow Summary  
 
 | Section | Title | Description |
@@ -215,12 +233,5 @@ This project is licensed under the **MIT License** — free for use, modificatio
 📅 Last updated: **November 2025**
 
 ```
-
----
-
-### ✅ Before You Push:
-- Replace `<your-username>`, `[Surname]`, and your email address.  
-- Add your **Google Drive or Kaggle dataset link** later if preferred.  
-- Keep the repo lightweight (no `.csv` files, no `.venv` folder).  
 
 ---
