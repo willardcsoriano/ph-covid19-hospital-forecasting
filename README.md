@@ -8,6 +8,19 @@
 This repository contains the complete data science workflow for analyzing and forecasting hospital utilization during the COVID-19 pandemic in the Philippines.  
 Using **Facebook Prophet**, an AI-based time-series forecasting model, the project predicts ICU occupancy trends from open **Department of Health (DOH)** datasets.  
 
+You can view the rendered analysis **without running any code** via GitHub Pages:
+
+🔗 **Live HTML Report:**
+[https://willardcsoriano.github.io/ph-covid19-hospital-forecasting/](https://willardcsoriano.github.io/ph-covid19-hospital-forecasting/)
+
+This page is generated from the Jupyter notebook export and contains:
+
+* All charts and visualizations
+* Forecast outputs
+* Written interpretations and conclusions
+
+> 💡 Recommended for reviewers, policymakers, or readers who only need results.
+
 The notebook performs:  
 - Data cleaning and feature engineering  
 - Descriptive and regional analysis of hospital capacity  
@@ -59,24 +72,6 @@ To reproduce this project, download the dataset directly from the official **DOH
 > Please ensure the file is available locally before running the notebook.
 
 ---
-
-## 🌐 Live Project Demo (GitHub Pages)
-
-You can view the rendered analysis **without running any code** via GitHub Pages:
-
-🔗 **Live HTML Report:**
-[https://willardcsoriano.github.io/ph-covid19-hospital-forecasting/](https://willardcsoriano.github.io/ph-covid19-hospital-forecasting/)
-
-This page is generated from the Jupyter notebook export and contains:
-
-* All charts and visualizations
-* Forecast outputs
-* Written interpretations and conclusions
-
-> 💡 Recommended for reviewers, policymakers, or readers who only need results.
-
----
-
 
 ## 🧠 Project Workflow Summary  
 
